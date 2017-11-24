@@ -1,0 +1,10 @@
+package com.example.admin.sqlitelogin.util;
+
+/**
+ * Created by Admin on 22-11-2017.
+ */
+
+public class Constant {
+
+    public static String otp = "";
+}
